@@ -1,0 +1,17 @@
+Package: calmHLS
+Title: Calculate DNA Methylation-Based Healthy Lifestyle Score (mHLS)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tanwei", "Yuan", email = "ytanwei@gmail.com", role = c("aut", "cre"))
+Description: Computes individual DNAm-based scores for smoking, alcohol, BMI,
+  extracts diet-related CpGs, and then calculates the overall DNAm-based Healthy
+  Lifestyle Score (mHLS) and domain-specific sub-scores using pre-trained coefficients.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    stats
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
