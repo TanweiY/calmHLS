@@ -101,8 +101,13 @@ The intermediate object returned by `calc_behavior_scores()` also includes addit
 ---
 
 ## License
+This software is proprietary and **not open source**. All rights reserved.
 
-MIT. See the `LICENSE` file for details.
+The `calmHLS` package is made available for **non-commercial academic and research use only**. Commercial use, modification, redistribution, and derivative works are not permitted without prior written permission from the copyright holder.
+
+No patent license, express or implied, is granted. The copyright holder reserves all patent rights.
+
+See the [`LICENSE`](LICENSE) file for the full terms.
 
 ---
 
