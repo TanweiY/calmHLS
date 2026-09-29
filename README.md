@@ -114,3 +114,6 @@ See the [`LICENSE`](LICENSE) file for the full terms.
 ## Citation
 
 If you use `calmHLS` in your work, please cite the relevant DNAm score publications (to be added).
+
+## R shiny app
+You can also calculate the scores on the website without R: https://tanweiyuan.shinyapps.io/mHLS_calculator/
